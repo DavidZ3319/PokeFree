@@ -1,5 +1,5 @@
 # PokeFree
-Un bot de discord como poketwo que esta en progreso. Animate a contribuir. Escrito en node.js
+Un bot de discord como poketwo que esta en progreso. Animate a contribuir. Escrito en node.js . El código se subirá a aquí más adelante por el momento puede verlo en [replit.com](https://replit.com/@David-EduardoE6/PokeCutie-v6-4#models/spawn.js)
 
 # Cosas a arreglar
 - la tienda trabajando (no funciona algunas cosas)
