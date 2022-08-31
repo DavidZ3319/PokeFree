@@ -1,14 +1,12 @@
 # PokeFree
-Un bot de discord como poketwo que esta en progreso. Animate a contribuir. Escrito en node.js . El código se subirá a aquí más adelante por el momento puede verlo en [replit.com](https://replit.com/@David-EduardoE6/PokeCutie-v6-4#models/spawn.js)
+Un bot de discord de pokemon que esta en progreso. Animate a contribuir. Escrito en node.js . El código se subirá a aquí más adelante por el momento puede verlo en [replit.com](https://replit.com/@David-EduardoE6/PokeCutie-v6-4#models/spawn.js)
 
 # Cosas a arreglar
 - la tienda trabajando (no funciona algunas cosas)
 
-- Trade sin lag 
 - Movesets 
 - Release all
 
-- arreglar los spawns (aparecen demasiado rápido)
 
 # Algunas ideas:
 
@@ -24,16 +22,16 @@ Un bot de discord como poketwo que esta en progreso. Animate a contribuir. Escri
 
 
 
-- Añadir pokes de eventos
+- Añadir pokes de eventos (esta en progreso)
 
-- Añadir botones,menus
+- Añadir botones,menus (se estan añadiendo)££
 
 - Compra de shards con pokecoins
 
 - Un evento para iniciar (tenemos ideas pensadas, da más ideas en #eventos)
 
 # Servidor discord donde puedes probar el bot
-**[click aquí](https://discord.gg/vK2echvqXM)**
+**[click aquí](https://dsc.gg/pokefree)**
 # Imágenes de muestra 
 _Capturando_
 ![capturando](https://i.imgur.com/T8p2OaV.png)
